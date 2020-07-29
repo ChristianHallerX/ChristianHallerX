@@ -4,12 +4,11 @@
 
 - 🔭 I’m currently working on optimizing well log classifictions
 
+- 🌱 I’m currently learning ... Advanced Object-Oriented Programming in <a href="https://xkcd.com/353/" target="_blank">Python </a>
+
 - 💬 Ask me about my T-rex shirt
 
 - ⚡ Fun fact: Geoscientists like me are logical thinkers, data-driven, good problem solvers, increasingly wear a second hat at producing scientific softare, and enjoy obtaining their data also outdoors.
-
-
-![ChristianHallerX's github stats](https://github-readme-stats.vercel.app/api?username=ChristianHallerX&show_icons=true&theme=radical)
 
 <!--
 **ChristianHallerX/ChristianHallerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
