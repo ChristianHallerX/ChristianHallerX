@@ -8,7 +8,7 @@
 
 - 💬 Ask me about my T-rex shirt
 
-- ⚡ Fun fact: Geoscientists like me are logical thinkers, data-driven, good problem solvers, increasingly wear a second hat at producing scientific softare, and enjoy obtaining their data also outdoors.
+- ⚡ Fun fact: Geoscientists like me are logical thinkers, data-driven, good problem solvers, increasingly wear a second hat at producing scientific software, and enjoy obtaining their data also outdoors.
 
 <!--
 **ChristianHallerX/ChristianHallerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
