@@ -4,7 +4,7 @@
 
 * [`Data Science Projects`](https://github.com/ChristianHallerX/DataScienceProjects) - Currently the repo I work the most with. Python worked examples and problems from interesting datasets, applications, and modules I enjoy most.
 
-* [`PhD Résumé and CoverLetter Template`](https://github.com/ChristianHallerX/PhD_Resume_and_CoverLetter_Template) - My modification on the Frigeri, and Dramsch LaTeX résumé. You are invited to download or clone.
+* [`PhD Résumé and CoverLetter Template`](https://github.com/ChristianHallerX/PhD_Resume_and_CoverLetter_Template) - My modification on the famous Friggeri (and Dramsch) LaTeX résumé. You are invited to download or clone.
 
 * [`Python Coding`](https://github.com/ChristianHallerX/Python_Coding) - A collection of functions, webapps, and other implementations in Python.
 
