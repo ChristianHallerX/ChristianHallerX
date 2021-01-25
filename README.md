@@ -1,10 +1,24 @@
 ### Hi there 👋
 
+- ### 💻 Repositories:
+
+* [`Data Science Projects`](https://github.com/ChristianHallerX/DataScienceProjects) - Currently the repo I work the most with. Python worked examples and problems from interesting datasets, applications, and modules I enjoy most.
+
+* [`PhD Résumé and CoverLetter Template`](https://github.com/ChristianHallerX/PhD_Resume_and_CoverLetter_Template) - My modification on the Frigeri, and Dramsch LaTeX résumé. You are invited to download or clone.
+
+* [`Python Coding`](https://github.com/ChristianHallerX/Python_Coding) - A collection of functions, webapps, and other implementations in Python.
+
+* [`Deeplearning.ai`](https://github.com/ChristianHallerX/Deeplearning.ai) - Deep Learning projects, starting from image classification, sun spot activity timeseries prediction, and everything in between.
+
+* [`ArcGIS Projects`](https://github.com/ChristianHallerX/ArcGIS_Projects) - Spatial analytics projects stretching from geo apps for your phone to forest fire quantification using satellite imagery.
+
+
+
 - 👯 I’m looking to collaborate on open source projects
 
 - 🔭 I’m currently working on optimizing well log classifictions
 
-- 🌱 I’m currently learning ... Advanced Object-Oriented Programming in <a href="https://xkcd.com/353/" target="_blank">Python </a>
+- 🧪 I’m currently experimenting with ... edge inference of TF models.
 
 - 💬 Ask me about my T-rex shirt
 
