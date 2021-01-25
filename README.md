@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ### 💻 Repositories:
+## 💻 Repositories:
 
 * [`Data Science Projects`](https://github.com/ChristianHallerX/DataScienceProjects) - Currently the repo I work the most with. Python worked examples and problems from interesting datasets, applications, and modules I enjoy most.
 
@@ -12,7 +12,7 @@
 
 * [`ArcGIS Projects`](https://github.com/ChristianHallerX/ArcGIS_Projects) - Spatial analytics projects stretching from geo apps for your phone to forest fire quantification using satellite imagery.
 
-
+## What I am up to:
 
 - 👯 I’m looking to collaborate on open source projects
 
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about my T-rex shirt
 
-- ⚡ Fun fact: Geoscientists like me are logical thinkers, data-driven, good problem solvers, increasingly wear a second hat at producing scientific software, and enjoy obtaining their data also outdoors.
+- ⚡ Fun fact: My Ruby is Off the Rails.
 
 <!--
 **ChristianHallerX/ChristianHallerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
